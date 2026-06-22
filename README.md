@@ -57,6 +57,7 @@ The module comes with a dedicated Material Design 3 configuration app.
    - System Framework (`android`)
    - System UI (`com.android.systemui`)
    - Link to Windows (`com.microsoft.appmanager`)
+   - Device Integration Service (`com.microsoft.deviceintegrationservice`)
    - Cross Device Service Broker (`com.microsoftsdk.crossdeviceservicebroker`)
 6. **Reboot your device** (or use the Restart Services button in the app).
 7. Open the app from your launcher to configure your preferences!
