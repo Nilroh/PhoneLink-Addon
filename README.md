@@ -41,6 +41,18 @@ The module comes with a dedicated Material Design 3 configuration app.
 
 ---
 
+> [!WARNING]
+> **HyperOS / MIUI Users:** Due to aggressive background process management, you **MUST** set "Link to Windows" and "Cross Device Service Broker" to **No Restrictions** in battery settings. You also need to enable "Autostart" for both apps. Failure to do this will cause the projection to randomly drop or the lockscreen bypass to fail!
+
+## 🧪 Tested Environment
+This module has been specifically tested and confirmed stable on:
+- **OS Version:** Android 13 & 14 (MIUI 14 / HyperOS 1.0+)
+- **Target Apps:** Link to Windows `v1.24051.x` & Cross Device Service Broker `v1.2.x`
+- **Root Framework:** Magisk 26.4+ or KernelSU
+- **Xposed Manager:** LSPosed (Zygisk) v1.9.2+
+
+---
+
 ## ⚙️ Installation & Usage
 
 ### Prerequisites
