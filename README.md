@@ -49,7 +49,7 @@ The module comes with a dedicated Material Design 3 configuration app.
 - **Microsoft Phone Link** / Link to Windows installed
 
 ### How to Install
-1. Download the latest `PhoneLink-Addon-v1.0.1.apk` from the `Releases/v1.0.1/` folder.
+1. Download the latest `PhoneLink-Addon-v1.0.1.apk` from the [GitHub Releases](https://github.com/Nilroh/PhoneLink-Addon/releases) page.
 2. Install the APK normally.
 3. Open your **LSPosed Manager**.
 4. Navigate to **Modules** -> enable **PhoneLink Addon**.
