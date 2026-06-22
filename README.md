@@ -68,7 +68,7 @@ The project is built entirely in standard Java and uses the official Xposed API 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/PhoneLink-Addon.git
+git clone https://github.com/Nilroh/PhoneLink-Addon.git
 cd "PhoneLink Addon"
 
 # Clean the workspace
